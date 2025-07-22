@@ -29,6 +29,7 @@ Soy un profesional en formación con fuerte interés en la seguridad ofensiva. A
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TheHarvester-6a1b9a?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Amass-1976D2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gobuster-FFEB3B?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/TryHackMe-EF3C3C?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </p>
 
