@@ -27,6 +27,7 @@ Soy un profesional en formación con fuerte interés en la seguridad ofensiva. A
   <img src="https://img.shields.io/badge/Burp_Suite-ff4400?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-003a70?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nessus-009c9f?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TheHarvester-6a1b9a?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Amass-1976D2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gobuster-FFEB3B?style=for-the-badge&logoColor=black"/>
