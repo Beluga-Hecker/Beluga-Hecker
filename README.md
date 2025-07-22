@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, soy Beluga
 
-<!--
-**Beluga-Hecker/Beluga-Hecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de hacking ético y ciberinteligencia.
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+- 🧑‍💻 Estudiante de Red Team, OSINT y Pentesting
+- 📍 Desde Madrid, España
+- ⚔️ Apasionado por el ciberespionaje ético y el análisis de amenazas
+- 🔭 Aprendiendo IA aplicada a ciberseguridad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas favoritas
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-black?logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange)
+![OSINT](https://img.shields.io/badge/OSINT-blue)
+
+## 🚧 En construcción
+Estoy subiendo mis primeros scripts, write-ups y proyectos reales de práctica.
+
+## ⚠️ Disclaimer
+> Todo lo que comparto aquí es solo para fines educativos y legales. ¡El hacking ético siempre con permiso!
